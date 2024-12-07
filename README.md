@@ -68,9 +68,6 @@ Start the application
     Access the application
         Navigate to http://localhost:3000 to explore HealthFitness! 🎉
 
-📸 Screenshots
-
-(Add screenshots of your app's UI and features here to make the README more engaging.)
 🌟 Future Enhancements
 
     📅 Add progress tracking with visual graphs.
